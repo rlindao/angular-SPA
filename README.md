@@ -1,27 +1,28 @@
+
 # Spa
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+Proyecto de practica en Angular ( deploy en githubpages and firebase ) 
 
-## Development server
+link de firebase 
+https://spa-rlindao.firebaseapp.com/home
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![2021-04-18_11h07_53](https://user-images.githubusercontent.com/63914494/115152344-533b3780-a036-11eb-9c28-941a7903e549.png)
 
-## Code scaffolding
+commando de firebase
+firebase login
+firebase init
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![2021-04-18_11h10_11](https://user-images.githubusercontent.com/63914494/115152431-a614ef00-a036-11eb-8222-7ab0fc661e9f.png)
+![2021-04-18_11h10_32](https://user-images.githubusercontent.com/63914494/115152440-b2994780-a036-11eb-9b4e-0f46110ca868.png)
 
-## Build
+(cuando nos cree los archivos de firebase debemos eliminar la carpeta dist y realizar un ng build --prod![2021-04-18_11h11_54](https://user-images.githubusercontent.com/63914494/115152483-e3797c80-a036-11eb-8f03-19a61b975133.png)
+)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![2021-04-18_11h10_59](https://user-images.githubusercontent.com/63914494/115152448-c349bd80-a036-11eb-8b2a-410d76398af4.png)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+link de githubpages
+https://rlindao.github.io/angular-SPA/home
+![2021-04-18_11h08_49](https://user-images.githubusercontent.com/63914494/115152384-7960d780-a036-11eb-8088-b3b0eac54c46.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
